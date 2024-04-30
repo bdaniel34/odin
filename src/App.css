@@ -1,0 +1,8 @@
+ h1{
+    color: rgb(234, 28, 5);
+    size: 2cm;
+ }
+body{
+   display: flex;
+   justify-content: center;
+}
